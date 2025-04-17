@@ -1,4 +1,10 @@
-## Hi there 👋
+## Ricardo Estevão 👋
+Desenvolvedor Backend | Python
+- 🤓 **Análise e Desenvolvimento de Sistemas**
+- Open to Work in Estágio/Dev. Junior
+- 
+
+
 
 <!--
 **ricardoestevao/ricardoestevao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
