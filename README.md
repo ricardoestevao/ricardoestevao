@@ -1,9 +1,9 @@
 ## Olá Caro(a)! 👋
 **Desenvolvedor Backend | Python**
-- Análise e Desenvolvimento de Sistemas 🤓
+- Estudante de Análise e Desenvolvimento de Sistemas 🤓
 - Open to Work in Estágio/Dev. Junior ❗
-- Aqui você encontrará projetos e atividades 📚
-- Linguagem de programação:         
+- Aqui você encontrará projetos e atividades acadêmicas 📚
+- Linguagem de programação atual:         
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
      
 **Você também me encontra em:**     
