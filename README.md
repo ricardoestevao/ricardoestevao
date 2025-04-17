@@ -1,4 +1,4 @@
-## Olá Caro(a)! 👋
+## Olá! 👋
 **Desenvolvedor Backend | Python**
 - Estudante de Análise e Desenvolvimento de Sistemas 🤓
 - Open to Work in Estágio/Dev. Junior ❗
