@@ -1,4 +1,4 @@
-## Ricardo Estevão 👋
+## Olá Caro(a)! 👋
 **Desenvolvedor Backend | Python**
 - Análise e Desenvolvimento de Sistemas 🤓
 - Open to Work in Estágio/Dev. Junior ❗
